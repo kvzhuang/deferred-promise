@@ -19,4 +19,4 @@
 ref: 
 * [Deferred和Promise](https://wohugb.gitbooks.io/promise/content/advanced/deferred-and-promise.html)
 
-* [貓桑觀察誌-Deferred 與 Promise 的差異]http://cat-son.blogspot.tw/2015/02/deferred-promise.html#sthash.pRdr0g1j.lUz7Wzgc.dpbs
+* [貓桑觀察誌-Deferred 與 Promise 的差異](http://cat-son.blogspot.tw/2015/02/deferred-promise.html#sthash.pRdr0g1j.lUz7Wzgc.dpbs)
