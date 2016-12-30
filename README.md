@@ -15,3 +15,8 @@
 * Promise代表了一个对象，这个对象的状态现在还不确定，但是未来一个时间点它的状态要么变为正常值（FulFilled），要么变为异常值（Rejected）；
 
 * 而Deferred对象表示了一个处理还没有结束的这种事实，在它的处理结束的时候，可以通过Promise来取得处理结果。
+
+ref: 
+* [Deferred和Promise](https://wohugb.gitbooks.io/promise/content/advanced/deferred-and-promise.html)
+
+* [貓桑觀察誌-Deferred 與 Promise 的差異]http://cat-son.blogspot.tw/2015/02/deferred-promise.html#sthash.pRdr0g1j.lUz7Wzgc.dpbs
