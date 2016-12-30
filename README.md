@@ -1,5 +1,6 @@
 ![deferred](./cfa1p.png)
-Deferred和Promise的关系
+
+#Deferred和Promise的关系
 
 简单来说，Deferred和Promise具有如下的关系。
 * Deferred 拥有 Promise
